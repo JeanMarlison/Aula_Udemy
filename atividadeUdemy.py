@@ -3,6 +3,6 @@ novaLista = 1
 
 print(a[:])
 
-if a[:] % 2 == 1:
+if (a[:] % 2) == 1:
     novaLista = a[:]
 
