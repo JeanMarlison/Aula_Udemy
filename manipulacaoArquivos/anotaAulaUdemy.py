@@ -40,3 +40,4 @@ if __name__ == "__main__":
     valor_informado = input('Digite a nota do aluno: ')
     conceito = obterConceitoNota(valor_informado)
     print(conceito)
+
